@@ -1,2 +1,1 @@
-# imdb-clone
-imdb clone
+# imdbclone.github.io
